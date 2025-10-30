@@ -1,7 +1,7 @@
 # Projet_d-epicier_V1.0.0
 Ce programme permet à l’utilisateur d’entrer plusieurs prix de produits, de les additionner et d’afficher le montant total dépensé.
 
-#1.	Fonctionnalités:
+# 1.	Fonctionnalités:
 ⦁	Saisie des prix un par un.
 
 ⦁	Addition automatique du montant total.
@@ -10,7 +10,7 @@ Ce programme permet à l’utilisateur d’entrer plusieurs prix de produits, de
 
 ⦁	Affichage du total en fin de saisie.
 
-#2. Limitations / Erreurs connues
+# 2. Limitations / Erreurs connues
 ⦁	Le programme plante si l’utilisateur saisit des caractères non numériques (lettre, symbole).
 
 ⦁	Le message d’erreur n’apparaît que pour les nombres négatifs.
